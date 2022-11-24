@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Senior Software Engineer at Capital One <span>June 2022-present</span></h2>
+                        <h2>Senior Software Engineering Manager at Capital One <span>June 2022-present</span></h2>
                         <ol style={{ listStyleType: 'lower-alpha' }}>
                           <li>Managing 3 agile teams of 15 highly skilled Software Engineers with varied technical and functional horizons.</li>
                           <li>Strategic decision making for future growth of the team.</li>
